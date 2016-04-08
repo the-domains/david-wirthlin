@@ -1,6 +1,6 @@
 name: David Wirthlin
 favicon: null
-layout_spectrum: 0.26777
+layout_spectrum: 0.72986
 typography_spectrum: 1
 title: DavidWirthlin.org
 cta:
@@ -24,6 +24,6 @@ color:
     - '#98462e'
   brandStrength: 0
   lightness: 0.75
-  saturation: 0.6952467430382967
+  saturation: 0.75
   rhythmicContrast: 0.1442911154590547
 purpose: []
