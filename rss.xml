@@ -4,8 +4,15 @@
         <description><![CDATA[DavidWirthlin.org]]></description>
         <link>https://thegrid.ai/david-wirthlin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 03:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 18:12:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/david-wirthlin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“Alex, Her Most Devoted,” Psychopomp (Volume 3, Issue 11, 2016) </p>]]></description>
+            <link>https://thegrid.ai/david-wirthlin/a97e2879-b5b0-4ed9-82ab-f9a70048b46c/index.html</link>
+            <guid isPermaLink="false">a97e2879-b5b0-4ed9-82ab-f9a70048b46c</guid>
+            <pubDate>Sat, 09 Apr 2016 18:11:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcd1375e-1742-48af-a287-05750ce3889f.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>http://www.spuytenduyvil.net/houndstooth.html</link>
             <guid isPermaLink="false">73de3131-e057-41e3-8610-c812a18705a0</guid>
             <pubDate>Sat, 09 Apr 2016 03:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>“Alex, Her Most Devoted,” Psychopomp (Volume 3, Issue 11, 2016) </p>]]></description>
-            <link>https://thegrid.ai/david-wirthlin/a97e2879-b5b0-4ed9-82ab-f9a70048b46c/index.html</link>
-            <guid isPermaLink="false">a97e2879-b5b0-4ed9-82ab-f9a70048b46c</guid>
-            <pubDate>Fri, 08 Apr 2016 04:20:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
