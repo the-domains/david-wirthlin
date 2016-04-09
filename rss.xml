@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[David Wirthlin]]></title>
-        <description><![CDATA[David Wirthlin]]></description>
+        <title><![CDATA[DavidWirthlin.org]]></title>
+        <description><![CDATA[DavidWirthlin.org]]></description>
         <link>https://thegrid.ai/david-wirthlin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 04:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 03:03:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/david-wirthlin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://psychopompmagazine.files.wordpress.com/2016/04/issue-11-thumb.png?w=960">]]></description>
+            <link>https://thegrid.ai/david-wirthlin/de3f7d12-03ca-4dd6-bf33-34ae14e81379/index.html</link>
+            <guid isPermaLink="false">de3f7d12-03ca-4dd6-bf33-34ae14e81379</guid>
+            <pubDate>Sat, 09 Apr 2016 03:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“Alex, Her Most Devoted,” Psychopomp (Volume 3, Issue 11, 2016) </p>]]></description>
             <link>https://thegrid.ai/david-wirthlin/a97e2879-b5b0-4ed9-82ab-f9a70048b46c/index.html</link>
             <guid isPermaLink="false">a97e2879-b5b0-4ed9-82ab-f9a70048b46c</guid>
             <pubDate>Fri, 08 Apr 2016 04:20:37 GMT</pubDate>
