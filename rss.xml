@@ -4,7 +4,7 @@
         <description><![CDATA[DavidWirthlin.org]]></description>
         <link>https://thegrid.ai/david-wirthlin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 03:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 03:05:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/david-wirthlin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Houndstooth]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/david-wirthlin/e709834e-13b8-4bd5-be42-03a20ecb8dfd/index.html</link>
             <guid isPermaLink="false">e709834e-13b8-4bd5-be42-03a20ecb8dfd</guid>
             <pubDate>Fri, 08 Apr 2016 04:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/802be05a-7465-47ca-ae17-1a6f2da654c2.jpg">]]></description>
-            <link>https://thegrid.ai/david-wirthlin/8ae63886-9b47-43db-9d39-ec4e6414a21d/index.html</link>
-            <guid isPermaLink="false">8ae63886-9b47-43db-9d39-ec4e6414a21d</guid>
-            <pubDate>Thu, 07 Apr 2016 20:40:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
